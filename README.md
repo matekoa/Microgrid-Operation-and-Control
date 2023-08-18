@@ -4,6 +4,7 @@
 ### Concepts Studied:
 - Load Flow Analysis
 - Short-Circuit (Bolted) Fault Analysis
+- Contingency Analysis
 - Economic Dispatch
 - Wind Energy Integration
 
